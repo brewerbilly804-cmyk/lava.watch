@@ -1,5 +1,7 @@
 porn video review Billy Brewer 
-
+Pull request → lint → test → build
+Merge to main → deploy to staging
+Manual approval → deploy to production
 A lava lamp simulation served three ways: as ANSI half-blocks over SSH or
 telnet, or as RGBA pixels on a `<canvas>` in the browser. One Rust
 simulation, two output formats, one self-contained static binary.
